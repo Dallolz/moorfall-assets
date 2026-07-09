@@ -12,3 +12,4 @@ Assets 3D (CC0) du jeu [Moorfall](https://github.com/Dallolz/moorfall), servis a
 Sources (toutes CC0, voir LICENSE.md) :
 - Quaternius Universal Rig ecosystem — personnages, tenues, animations
 - KayKit (Kay Lousberg), Character Pack: Skeletons — `enemies/Skeleton_*.glb`
+- Kenney Nature Kit — `env/*.glb` (props instanciés, teintés au runtime)
